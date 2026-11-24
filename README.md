@@ -105,7 +105,8 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-![Uploading fifo.png…]()
+<img width="613" height="123" alt="fifo" src="https://github.com/user-attachments/assets/d1e29f36-3974-4428-b394-c119ab60ea64" />
+
 
 
 
